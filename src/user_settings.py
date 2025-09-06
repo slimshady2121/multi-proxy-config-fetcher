@@ -11,7 +11,6 @@ SOURCE_URLS = [
     "https://raw.githubusercontent.com/MahsaNetConfigTopic/config/refs/heads/main/xray_final.txt",
     "https://raw.githubusercontent.com/imegabiz/ss-config-updater/refs/heads/main/configs.txt",
     "https://raw.githubusercontent.com/Mahdi0024/ProxyCollector/master/sub/proxies.txt",
-    "https://raw.githubusercontent.com/itsyebekhe/PSG/main/subscriptions/xray/base64/mix",
     "https://raw.githubusercontent.com/darkvpnapp/CloudflarePlus/refs/heads/main/proxy",
     "https://v2.alicivil.workers.dev",
     # Add more URLs here if you want to include additional sources.
