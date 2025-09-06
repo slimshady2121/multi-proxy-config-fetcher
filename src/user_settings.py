@@ -6,19 +6,14 @@ SOURCE_URLS = [
     "https://t.me/s/v2rayfree",
     "https://t.me/s/v2ray_free_conf",
     "https://t.me/s/PrivateVPNs",
-    "https://t.me/s/IP_CF_Config",
     "https://t.me/s/prrofile_purple",
-    "https://t.me/s/meli_proxyy",
     "https://t.me/s/DirectVPN",
-    "https://t.me/s/moftconfig",
-    "https://t.me/s/v2ray_extractor",
-    "https://t.me/s/v2ray_configs_pool",
     "https://raw.githubusercontent.com/MahsaNetConfigTopic/config/refs/heads/main/xray_final.txt",
     "https://raw.githubusercontent.com/imegabiz/ss-config-updater/refs/heads/main/configs.txt",
     "https://raw.githubusercontent.com/Mahdi0024/ProxyCollector/master/sub/proxies.txt",
-    "https://raw.githubusercontent.com/mahdibland/ShadowsocksAggregator/master/Eternity.txt",
     "https://raw.githubusercontent.com/itsyebekhe/PSG/main/subscriptions/xray/base64/mix",
-    "https://raw.githubusercontent.com/aiboboxx/v2rayfree/main/v2",
+    "https://raw.githubusercontent.com/darkvpnapp/CloudflarePlus/refs/heads/main/proxy",
+    "https://v2.alicivil.workers.dev",
     # Add more URLs here if you want to include additional sources.
 ]
 
